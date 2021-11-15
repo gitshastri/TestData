@@ -1,20 +1,23 @@
 {
-    "localizedStrings":[
-     
-     {
-         "code":"en",
-         "name":"English",
-         "strings": {
-             "hello":"Hello!!"
-         }
-     },
-        {
-         "code":"fr",
-         "name":"French",
-         "strings": {
-             "hello":"Bonjour!!"
-         }
-     }
-    ]
+    "localizedLanguages":{
+        
+        "total": 2,
+        "languages":[{
+            "code":"en",
+            "name":"English",
+            "strings": {
+                "hello":"Hello!!"
+            }
+        },
+            {
+                "code":"fr",
+                "name":"French",
+                "strings": {
+                    "hello":"Bonjour!!"
+                }
+            }
+        ]
+    }
     
 }
+
