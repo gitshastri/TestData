@@ -1,0 +1,19 @@
+{
+    "localizedLanguages":{
+        
+        "total": 2,
+        "languages":[{
+            "code":"en",
+            "name":"English",
+            "stringsUrl": ""
+        },
+            {
+                "code":"fr",
+                "name":"French",
+                "stringsUrl": ""
+            }
+        ]
+    }
+    
+}
+

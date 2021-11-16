@@ -5,16 +5,12 @@
         "languages":[{
             "code":"en",
             "name":"English",
-            "strings": {
-                "hello":"Hello!!"
-            }
+            "stringsUrl": ""
         },
             {
                 "code":"fr",
                 "name":"French",
-                "strings": {
-                    "hello":"Bonjour!!"
-                }
+                "stringsUrl": ""
             }
         ]
     }
